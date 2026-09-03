@@ -2,56 +2,56 @@
   {
     "id": 1,
     "title": "고추",
-    "imgurl": "images/veggie/veggie4.svg",
+    "imgurl": "images/veggie/veggie4.jpg",
     "content": "혈당조절 청양고추, 300g",
     "price": 21000
   },
   {
     "id": 2,
     "title": "밤",
-    "imgurl": "images/veggie/veggie5.svg",
+    "imgurl": "images/veggie/veggie5.jpg",
     "content": "아산 율림 햇 약단밤, 300g",
     "price": 15000
   },
   {
     "id": 3,
     "title": "고구마",
-    "imgurl": "images/veggie/veggie6.svg",
+    "imgurl": "images/veggie/veggie6.jpg",
     "content": "늘 해랑 호박 고구마, 10kg",
     "price": 19800
   },
   {
     "id": 4,
     "title": "무",
-    "imgurl": "images/veggie/veggie7.svg",
+    "imgurl": "images/veggie/veggie7.jpg",
     "content": "제주 세척 월동무우, 1kg",
     "price": 20000
   },
   {
     "id": 5,
     "title": "오이",
-    "imgurl": "images/veggie/veggie8.svg",
+    "imgurl": "images/veggie/veggie8.jpg",
     "content": "경북 상주 백다다기 흑침오이, 1kg",
     "price": 17800
   },
   {
     "id": 6,
     "title": "당근",
-    "imgurl": "images/veggie/veggie1.svg",
+    "imgurl": "images/veggie/veggie1.jpg",
     "content": "나주 고산도 당근, 2kg",
     "price": 27800
   },
   {
     "id": 7,
     "title": "옥수수",
-    "imgurl": "images/veggie/veggie2.svg",
+    "imgurl": "images/veggie/veggie2.jpg",
     "content": "강원도 찰찰한 옥수수, 2kg",
     "price": 37800
   },
   {
     "id": 8,
     "title": "감자",
-    "imgurl": "images/veggie/veggie3.svg",
+    "imgurl": "images/veggie/veggie3.jpg",
     "content": "강원도 수미 햇 감자, 1kg",
     "price": 15800
   }
