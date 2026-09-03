@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560">
+  <rect width="720" height="560" fill="#eeeeee"/>
+  <circle cx="360" cy="235" r="90" fill="#dddddd"/>
+  <text x="360" y="255" text-anchor="middle" font-size="46" font-family="Arial, sans-serif" fill="#555555">당근</text>
+  <text x="360" y="390" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" fill="#888888">상품 이미지 교체 영역</text>
+</svg>
