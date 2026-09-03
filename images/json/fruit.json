@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "수박",
+    "imgurl": "images/fruit/fruit1.jpg",
+    "content": "달콤하고 시원한 고당도 수박, 5kg",
+    "price": 19900
+  },
+  {
+    "id": 2,
+    "title": "사과",
+    "imgurl": "images/fruit/fruit3.jpg",
+    "content": "아삭하고 달콤한 프리미엄 사과, 2kg",
+    "price": 23900
+  },
+  {
+    "id": 3,
+    "title": "청포도",
+    "imgurl": "images/fruit/fruit6.jpg",
+    "content": "상큼하고 달콤한 씨없는 청포도, 1kg",
+    "price": 16900
+  },
+  {
+    "id": 4,
+    "title": "바나나",
+    "imgurl": "images/fruit/fruit8.jpg",
+    "content": "부드럽고 달콤한 프리미엄 바나나, 1송이",
+    "price": 8900
+  }
+]
